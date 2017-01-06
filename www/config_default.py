@@ -5,11 +5,11 @@
 configs = {
     'debug': True,
     'db': {
-        'host': '127.0.0.1',
-        'port': 3306,
+        'host': '52.78.98.6',
+        'port': 3307,
         'user': 'root',
-        'password': '',
-        'db': 'adamblog'
+        'password': '123456',
+        'db': 'awesome'
     },
     'session': {
         'secret': 'adamblog'
